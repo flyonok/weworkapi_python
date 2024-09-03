@@ -22,7 +22,7 @@ from TestConf import *
 ## test
 api = CorpApi(TestConf['CORP_ID'], TestConf['APP_SECRET'])
 
-chatid = "test210";
+chatid = "test210"
 try :
 ##
     response = api.httpCall(

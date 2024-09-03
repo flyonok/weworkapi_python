@@ -13,7 +13,7 @@ if __name__ == "__main__":
    #假设企业在企业微信后台上设置的参数如下
    sToken = "hJqcu3uJ9Tn2gXPmxx2w9kkCkCE2EPYo"
    sEncodingAESKey = "6qkdMrq68nTKduznJYO1A37W2oEgpkMUvkttRToqhUt"
-   sCorpID = "ww1436e0e65a779aee"
+   sCorpID = "wwc492cd158b5ae694"
    '''
 	------------使用示例一：验证回调URL---------------
 	*企业开启回调模式时，企业号会向验证url发送一个get请求 
